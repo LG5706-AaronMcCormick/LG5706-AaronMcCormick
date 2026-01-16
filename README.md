@@ -1,9 +1,11 @@
-- 👋 Hi, I’m Aaron McCormick
-- 👀 I’m interested in Old tech, collecting tech, and making said tech do things it would not normally do, EG, android on the Switch, Apple TV running MacOS, Wii running Windows 95.
-- 🌱 I’m currently learning GCSE Computer Science, and have some furthur knowledge on Linux, Sideloading, Powershell and Java
-- 💞️ I’m looking to collaborate on any low-level console exploits or iOS jailbreaking, mabye some linux distro building
-- 📫 Reach at itsLG5706@gmail.com
-- I know some Python and Java, and little on Powershell, C++ and Android Studio
+#    _______  __ ____  __________  ___________   _________________   ____  ____ ___
+#   / ____/ |/ // __ \/ ____/ __ \/  _/ ____/ | / / ____/ ____/__ \ / __ \/ __ <  /
+#  / __/  |   // /_/ / __/ / /_/ // // __/ /  |/ / /   / __/  __/ // / / / / / / / 
+# / /___ /   |/ ____/ /___/ _, _// // /___/ /|  / /___/ /___ / __// /_/ / /_/ / /  
+# /_____//_/|_/_/   /_____/_/ |_/___/_____/_/ |_/\____/_____//____/\____/\____/_/   
+                                                                                  
+
+##Yeah, I'm that guy who does the stupid stuff with completely obsolete tech and codes in a useless programming language.
 
 <!---
 LG5706-AaronMcCormick/LG5706-AaronMcCormick is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
