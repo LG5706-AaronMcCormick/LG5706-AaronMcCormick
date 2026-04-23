@@ -4,7 +4,7 @@
 
 My name is Aaron. I'm A-Level Student for Computer Science, Philosophy and Ethics, Politics. I'm typically a hardware specialist when coming to computing, and don't have that much programming knowledge. I barely know how to use Github yet, so gimme a break if I do something stupid.
 
-Current main project: SatchelTwo
+Current main project: Satchel:Two
 
 <!---
 LG5706-AaronMcCormick/LG5706-AaronMcCormick is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
